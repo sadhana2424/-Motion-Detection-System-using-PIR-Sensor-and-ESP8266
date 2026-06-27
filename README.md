@@ -28,10 +28,10 @@ The web page updates automatically to display the current motion status.
 When no motion is detected, the LED turns OFF and the web page displays "No Motion Detected."
 
 ## 🌐 Web Interface Features
-Real-Time Motion Status
-LED Status Indicator
-Responsive HTML & CSS Dashboard
-Automatic Page Refresh
+Real-Time Motion Status,
+LED Status Indicator,
+Responsive HTML & CSS Dashboard,
+Automatic Page Refresh,
 
 ## ▶ How to Run
 Connect all components according to the circuit diagram.
@@ -45,8 +45,8 @@ Open the IP address in a web browser.
 Move in front of the PIR sensor to test motion detection.
 
 ## 📊 Sample Output
-Motion Status	LED
-Motion Detected	ON
+Motion Status	LED,
+Motion Detected	ON,
 No Motion Detected	OFF
 
 ## 🌍 Applications
@@ -57,16 +57,17 @@ Home Security System, Smart Lighting Control, Intruder Detection, Office Automat
 Real-Time Motion Detection, Wi-Fi Enabled Monitoring, Live Web Dashboard, LED Motion Indicator, Responsive HTML & CSS Interface, Automatic Web Page Refresh, Easy Hardware Setup, Low Power Consumption, Beginner-Friendly IoT Project.
 
 ## 💻 Software Used
-Arduino IDE
-ESP8266 Board Package
-HTML
+Arduino IDE,
+ESP8266 Board Package,
+HTML,
 CSS
 
 ## 🖼 Hardware Setup
 Example:
 
 Webpage_Screenshot.png
-(pir.png)
+(![Uploading pir.png…]()
+)
 
 👩‍💻 Developed By
 
