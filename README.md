@@ -66,7 +66,7 @@ CSS
 Example:
 
 Webpage_Screenshot.png
-(![Uploading pir.png…]()
+(<img width="960" height="778" alt="pir" src="https://github.com/user-attachments/assets/d4aa7c2f-f612-4781-8029-9e72f17caf56" />
 )
 
 👩‍💻 Developed By
