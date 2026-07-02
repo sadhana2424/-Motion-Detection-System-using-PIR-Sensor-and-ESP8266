@@ -49,6 +49,14 @@ Motion Status	LED,
 Motion Detected	ON,
 No Motion Detected	OFF
 
+## 🖼 Hardware Setup
+Example:
+
+Webpage_Screenshot.png
+(<img width="960" height="778" alt="pir" src="https://github.com/user-attachments/assets/d4aa7c2f-f612-4781-8029-9e72f17caf56" />
+)
+
+
 ## 🌍 Applications
 Home Security System, Smart Lighting Control, Intruder Detection, Office Automation, Smart Home Automation, Motion-Based Alarm System, Energy Saving System, IoT Security Monitoring.
 
@@ -62,12 +70,6 @@ ESP8266 Board Package,
 HTML,
 CSS
 
-## 🖼 Hardware Setup
-Example:
-
-Webpage_Screenshot.png
-(<img width="960" height="778" alt="pir" src="https://github.com/user-attachments/assets/d4aa7c2f-f612-4781-8029-9e72f17caf56" />
-)
 
 👩‍💻 Developed By
 
